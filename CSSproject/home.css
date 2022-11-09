@@ -1,0 +1,36 @@
+.family {
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+
+.header p {
+    padding-top:6px;
+    margin:0px;
+    padding-bottom:6px;
+}
+
+span {
+    padding-left:40px;
+}
+
+.header {
+    text-align: center;
+    font-size:25px;
+    background-color: black;
+    height:40px;
+}
+
+.main {
+    text-align: center;
+    margin:90px;
+    font-size:25px;
+}
+
+body {
+    background-image: url("space1.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    margin:0px;
+    height:800px;
+}
