@@ -1,0 +1,29 @@
+.content {
+    text-align:center;
+    margin:300px;
+    width:300px;
+    height:300px;
+    border:2px solid black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.main {
+    margin-top:35px;
+}
+
+.last {
+    padding-top:10px;
+}
+
+.email {
+    padding-top:10px;
+}
+
+button {
+    margin: 15px 0px 15px 0px;
+    width: 220px;
+}
+
+input {
+    height:20px;
+}
