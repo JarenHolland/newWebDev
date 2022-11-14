@@ -1,0 +1,47 @@
+.cardInfo {
+    background-color:white;
+    border: 2px solid gold;
+    width:300px;
+    float:left;
+    padding:10px;
+    margin:100px 10px 10px 10px;
+}
+
+button {
+    width:100%;
+    background-color:gold;
+    border:none;
+    padding: 5px 0px 5px 0px;
+    color:white;
+}
+
+body {
+    background-color:rgb(243, 239, 199);
+
+}
+
+#nav {
+    background-color:gold;
+    padding: 10px;
+    width: 98%;
+    position:fixed;
+    height:20px;
+
+}
+
+p {
+    padding:10px;
+}
+
+a {
+    float:right;
+    padding:0px 10px 0px 10px;
+    color:white;
+    text-decoration:none;
+}
+
+h4 {
+    float:left;
+    margin:0px;
+    color:white;
+}
