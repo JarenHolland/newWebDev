@@ -26,22 +26,28 @@ body {
     width: 98%;
     position:fixed;
     height:20px;
-
+    color:white;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
 }
 
 p {
     padding:10px;
 }
 
-a {
-    float:right;
-    padding:0px 10px 0px 10px;
-    color:white;
-    text-decoration:none;
+
+
+.main {
+    display:flex;
+    justify-content: center;
+    align-items:center;
 }
 
+
+
 h4 {
-    float:left;
-    margin:0px;
-    color:white;
+    margin-block-end:0px;
+    margin-block-start:0px;
 }
