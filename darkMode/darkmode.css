@@ -1,0 +1,64 @@
+td{
+    border-bottom:3px solid dimgray;
+    border-top:1px solid lightgrey;
+    width:33%;
+    border-left-color: dimgray;
+    border-bottom-color: dimgray;
+    border-top-color:lightgrey;
+    border-right-color:dimgray;
+}
+
+.leftCell{
+    border-left:2px solid grey;
+    padding-left:10px;
+
+}
+
+.rightCell{
+    border-right:2px solid grey;
+}
+
+
+table{
+    border-collapse: seperate;
+    border-spacing: 0px 15px;
+    width:70%;
+
+}
+
+.leftMargin{
+    margin-left:250px;
+}
+
+#clickMe{
+    margin-top: 8px;
+    height:50px;
+    font-size:20px;
+    border:1px solid grey;
+}
+
+#contentContainer{
+    font-family: Helvetica;
+    font-weight:bold;
+    font-size:18px;
+}
+
+#clickMe:hover{
+    cursor:pointer;
+
+}
+
+.darkMode{
+    background-color:rgb(34, 34, 34);
+    color:white;
+}
+
+td.darkMode{
+    border-bottom:3px solid dimgray;
+    border-top:1px solid grey;
+    background-color:rgb(48, 47, 47);
+    border-left-color: dimgray;
+    border-bottom-color: dimgray;
+    border-top-color:gray;
+    border-right-color:dimgray;
+}
