@@ -1,0 +1,14 @@
+td{
+    padding: 60px;
+    background-color:black;
+}
+
+table{
+    margin-left:30%;
+    margin-top:8%;
+    border-spacing: 20px 20px;
+}
+
+td.darkMode{
+    background-color:grey;
+}
