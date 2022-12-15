@@ -1,0 +1,105 @@
+body {
+    background-color:lightgray;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding:121px 15px 69px 15px;
+}
+
+.post,
+.submit {
+    background-color:white;
+    padding:15px;
+    position:fixed;
+    width:96%;
+}
+
+.post {
+    top:0;
+}
+
+.submit {
+    bottom:0;
+    display:flex;
+    flex-direction:row;
+}
+
+.commentSection {
+    background-color:gray;
+    display:flex;
+    flex-direction:column;
+    padding:15px;
+}
+
+.commentBox,
+.lastComment {
+    background-color:lightgray;
+    margin-bottom:15px;
+    display:flex;
+    flex-direction:row;
+    padding:10px;
+}
+
+.lastComment{
+    margin-bottom:0;
+}
+
+.image {
+    padding:15px;
+}
+
+.commentText {
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    margin-top: 15px;
+}
+
+.commentBody {
+    width:85%;
+}
+
+.hide {
+    display:none;
+}
+
+.show {
+    display:flex;
+}
+
+.editClass,
+.displayName {
+    width:85%;
+    height:25px;
+    margin-top:15px;
+}
+
+.menu {
+    color:blue;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+
+editSubmit,
+commentSubmit {
+    color:blue;
+    margin-left:20px;
+    margin-top:15px;
+    font-size:20px;
+}
+
+username {
+    font-size:20px;
+}
+
+comment {
+    font-size:35px;
+}
+
+menuButton {
+    padding-left:15px;
+}
+
+.displayName {
+    width:7%;
+    margin-right:15px;
+}
